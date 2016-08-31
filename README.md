@@ -10,3 +10,4 @@ http://overpass-turbo.eu/s/i7N
 1. Analyze which areas to add, what's currently on OSM and what's available
 2. Figure out tagging structure, see [OSM wiki](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dbus_stop)
 3. Plan how to do the import/placement of bus stops
+4. Define update strategy
